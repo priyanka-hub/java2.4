@@ -17,7 +17,7 @@ public class Minmax {
 		        min = arr[i];
 		      }		   		   
 		    }
-		    System.out.println("Maximum number = "  + max +
+		    System.out.println("Maximum number = "  + max + ","+
 		    		" Minimum number = " + min);		
 	}
 
